@@ -1,0 +1,3 @@
+/home/foobar/my_programming/snippets/hello/CMakeFiles/rebuild_cache.dir
+/home/foobar/my_programming/snippets/hello/CMakeFiles/hello.dir
+/home/foobar/my_programming/snippets/hello/CMakeFiles/edit_cache.dir

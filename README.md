@@ -1,2 +1,2 @@
 # snippets
-personal code snippets
+my personal code snippets

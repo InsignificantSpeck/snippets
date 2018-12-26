@@ -1,5 +1,5 @@
 #include <iostream>
-
+//enables us the ability to use input and output
 int main()
 //declares function called int main which accepts no arguments.
 //main is the point at which this program starts at.

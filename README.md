@@ -1,2 +1,2 @@
 # snippets
-my personal code snippets for learning programming
+my personal code snippets for learning the programming

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/pointer_practice.dir/main.cpp.o  -o pointer_practice 

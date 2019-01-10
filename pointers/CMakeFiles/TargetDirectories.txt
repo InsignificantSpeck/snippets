@@ -1,0 +1,3 @@
+/home/foobar/my_programming/snippets/pointers/CMakeFiles/rebuild_cache.dir
+/home/foobar/my_programming/snippets/pointers/CMakeFiles/pointer_practice.dir
+/home/foobar/my_programming/snippets/pointers/CMakeFiles/edit_cache.dir
